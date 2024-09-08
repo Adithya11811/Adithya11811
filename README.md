@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on my major project, which is building a functional proxy server in C<br><br>🌱 I’m currently learning about networking and OS fundamentals<br><br>📫 How to reach me: adithya11811@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=Adithy11811&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adithya-rao-k/) 
