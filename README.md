@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Adithya11811&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adithya11811&icon=6&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Adithy11811&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
